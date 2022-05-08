@@ -78,3 +78,8 @@
     * Eth Security Community (Telegram)
   * Be Active on Twitter
 
+
+* Knowledge Base
+  * [Inline Assembly](https://docs.soliditylang.org/en/v0.8.13/assembly.html)
+  * [Opcodes](https://www.ethervm.io/)
+  * 
