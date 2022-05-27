@@ -4,7 +4,7 @@
 * PoW(Ethereum)/PoS(Binance Smart Chain)
 * Solidity Fundamentals
   * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/index.html)
-  * [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdULDcret0S0EYQ7YcKzrigz)
+  * [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
   * Connect Missing Dots with Secureum
     * [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
     * [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
