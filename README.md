@@ -13,7 +13,7 @@
   * [Hardhat](https://hardhat.org/guides/waffle-testing.html)
   * [Better Programming Hub](https://betterprogramming.pub/the-complete-hands-on-hardhat-tutorial-9e23728fc8a4)
 
-* [ERC/BEP Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
+* [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
   * ERC20, ERC721, ERC777, ERC1155
   * BEP20
 
@@ -22,6 +22,7 @@
 * Upgradeable Contracts
   * [Smart Contract Programmer - Upgradeable Contracts](https://www.youtube.com/watch?v=JgSj7IiE4jA&t=157s)
   * [Smart Contract Programmer - Risks of Upgradeable Contracts](https://www.youtube.com/watch?v=XmxfB5JOt1Q&t=3s)
+  * [Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
 
 * Attack Vectors
   * [Secureum Security Pitfalls 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
@@ -39,6 +40,7 @@
   * [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
   * [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
   * Well known protocols: Uniswap v2/v3, Compound, Curve, Aave, Balancer.
+  * [Stablecoins](https://blog.chain.link/what-are-stablecoins/) => [Algorithmic Stablecoins](https://cointelegraph.com/altcoins-for-beginners/a-beginner-s-guide-on-algorithmic-stablecoins)
 
 * DeFi Attack Vectors
   * Flash Loan
