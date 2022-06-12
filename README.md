@@ -43,11 +43,9 @@
   * [Stablecoins](https://blog.chain.link/what-are-stablecoins/) => [Algorithmic Stablecoins](https://cointelegraph.com/altcoins-for-beginners/a-beginner-s-guide-on-algorithmic-stablecoins)
 
 * DeFi Attack Vectors
-  * Flash Loan
-  * Price Oracle Manipulation
+  * Flash Loan => Price Oracle Manipulation
   * Front-Running => Sandwich attacks
   * Rug Pulls => Unlimited Token Allowance
-  * 
 
 * [CTFs](https://github.com/blockthreat/blocksec-ctfs)  
   * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
