@@ -1,7 +1,6 @@
 # AuditorsRoadmap
 
-![Smart_Contract_Auditor_RoadMap](https://embed.coggle.it/diagram/YqLzaiSABzXD4UnZ/8f0bde034b8985fc65076768215c7b0dad3da1c93ccf02d0f65a06af0a69c016)
-
+<iframe width='853' height='480' src='https://embed.coggle.it/diagram/YqLzaiSABzXD4UnZ/8f0bde034b8985fc65076768215c7b0dad3da1c93ccf02d0f65a06af0a69c016' frameborder='0' allowfullscreen></iframe>
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * PoW(Ethereum)/PoS(Binance Smart Chain)
