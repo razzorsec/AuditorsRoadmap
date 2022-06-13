@@ -2,6 +2,7 @@
 
 ![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/173340492-e9ef1f83-0b28-452d-90af-fca55afd6f01.png)
 
+https://embed.coggle.it/diagram/YqLzaiSABzXD4UnZ/8f0bde034b8985fc65076768215c7b0dad3da1c93ccf02d0f65a06af0a69c016
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * PoW(Ethereum)/PoS(Binance Smart Chain)
