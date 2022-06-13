@@ -12,6 +12,9 @@
 * Smart Contract Testing
   * [Hardhat](https://hardhat.org/guides/waffle-testing.html)
   * [Better Programming Hub](https://betterprogramming.pub/the-complete-hands-on-hardhat-tutorial-9e23728fc8a4)
+  * [Code Eater (Hindi)](https://www.youtube.com/watch?v=vuqhHOx6188&list=PLgPmWS2dQHW9mucRpDVe16j9Qn74ZXqcD&index=5)
+  * [Foundry](https://github.com/foundry-rs/foundry)
+  * [Tenderly](https://tenderly.co/)
 
 * [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
   * ERC20, ERC721, ERC777, ERC1155
@@ -41,6 +44,7 @@
   * [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
   * Well known protocols: Uniswap v2/v3, Compound, Curve, Aave, Balancer.
   * [Stablecoins](https://blog.chain.link/what-are-stablecoins/) => [Algorithmic Stablecoins](https://cointelegraph.com/altcoins-for-beginners/a-beginner-s-guide-on-algorithmic-stablecoins)
+  * Staking Rewards, Vaults
 
 * DeFi Attack Vectors
   * Flash Loan => Price Oracle Manipulation
@@ -56,6 +60,7 @@
   * [BlockSec](https://blocksecteam.medium.com/)
   * [SlowMist](https://slowmist.medium.com/)
   * [Rekt News](https://rekt.news/)
+  * [PeckShield](https://twitter.com/peckshield)
   * [Mudit Gupta](https://twitter.com/mudit__gupta)
   * [Samczun](https://twitter.com/samczsun)
 
@@ -70,7 +75,11 @@
   * [Mythril](https://github.com/ConsenSys/mythril)
   * [Mythx](https://mythx.io/)
   * [Echidna](https://github.com/crytic/echidna)
-
+  * [Manticore](https://github.com/trailofbits/manticore)
+  * [Surya](https://github.com/ConsenSys/surya)
+  * [BlockSec ETH/BSC Tx Analysis](https://versatile.blocksecteam.com/tx) 
+  * [ethtx ETH Tx Analysis](https://ethtx.info/)
+  
 * Continue Learning
   * NewsLetters - Blockthreat, HashingBits
   * Communities
