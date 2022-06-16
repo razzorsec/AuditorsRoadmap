@@ -1,6 +1,7 @@
 # AuditorsRoadmap
 
 ![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/173342792-27f6ab9c-5c18-47ae-9c7d-555a8f047296.png)
+Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 * PoW(Ethereum)/PoS(Binance Smart Chain)
