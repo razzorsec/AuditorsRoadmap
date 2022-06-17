@@ -1,16 +1,23 @@
 # AuditorsRoadmap
 
-![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/173342792-27f6ab9c-5c18-47ae-9c7d-555a8f047296.png)
+![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/174233728-015bd233-1df9-49fb-a6a3-2af970d90b60.png)
+
 Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor
 
-* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
-* PoW(Ethereum)/PoS(Binance Smart Chain)
+* [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)  
+* Proof of Work vs Proof of Stake
 * Solidity Fundamentals
+  * [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
   * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/index.html)
   * [Smart Contract Programmer - Solidity 0.8](https://www.youtube.com/playlist?list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p)
   * Connect Missing Dots with Secureum
     * [Secureum Solidity 101](https://secureum.substack.com/p/solidity-101?s=r)
     * [Secureum Solidity 201](https://secureum.substack.com/p/solidity-201?s=r)
+
+* Gas Optimizations
+  * [Aggregated Tricks by pcaversaccio and Harikrishnan Mulackal](https://forum.openzeppelin.com/t/a-collection-of-gas-optimisation-tricks/19966/6)
+  * [Kaden: Gas Optimization Tips](https://betterprogramming.pub/how-to-write-smart-contracts-that-optimize-gas-spent-on-ethereum-30b5e9c5db85)
+  * [Juan: Advanced Gas Optimizations](https://dev.to/juanxavier/advanced-gas-optimizations-tips-for-solidity-1j2f)
 
 * Smart Contract Testing
   * [Hardhat](https://hardhat.org/guides/waffle-testing.html)
@@ -20,7 +27,7 @@ Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-audito
   * [Tenderly](https://tenderly.co/)
 
 * [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
-  * ERC20, ERC721, ERC777, ERC1155
+  * ERC20, ERC721, ERC777, ERC1155, ERC4626
   * BEP20
 
 * [Openzeppelin Helper Libraries/Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
@@ -35,7 +42,7 @@ Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-audito
   * [Secureum Security Pitfalls 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201?s=r)
   * [SWC Registry](https://swcregistry.io/)
   * [Smart Contract Programmer - Hack Solidity](https://www.youtube.com/watch?v=4Mm3BCyHtDY&list=PLO5VPQH6OWdWsCgXJT9UuzgbC8SPvTRi5)
-  * 
+  * [Kaden: Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
 
 * [CTFs](https://github.com/blockthreat/blocksec-ctfs)
   * [Ethernaut](https://ethernaut.openzeppelin.com/)
@@ -72,6 +79,10 @@ Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-audito
   * [Secureum Audit Findings 201](https://secureum.substack.com/p/audit-findings-201?s=r)
   * Trail of Bits, Consensys, Openzeppelin, QuillAudits
 
+* Security Standards & Checklists
+  * [Rari-Capital Solcurity](https://github.com/Rari-Capital/solcurity)
+  * [SCSVS](https://github.com/securing/SCSVS)
+
 * Tools
   * [VS Code IDE](https://code.visualstudio.com/)
   * [Slither](https://github.com/crytic/slither)
@@ -80,10 +91,14 @@ Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-audito
   * [Echidna](https://github.com/crytic/echidna)
   * [Manticore](https://github.com/trailofbits/manticore)
   * [Surya](https://github.com/ConsenSys/surya)
+  * [Scribble](https://github.com/ConsenSys/scribble)
   * [BlockSec ETH/BSC Tx Analysis](https://versatile.blocksecteam.com/tx) 
   * [ethtx ETH Tx Analysis](https://ethtx.info/)
   
 * Continue Learning
+  * [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
+  * [Ethereum Improvement Proposals (EIPs)](https://eips.ethereum.org/)
+  * [Eth Research](https://ethresear.ch/)
   * NewsLetters - Blockthreat, HashingBits
   * Communities
     * Immunefi, Secureum, Blockchain Pentesting( discord )  
