@@ -1,8 +1,11 @@
 # AuditorsRoadmap
 
-![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/174233728-015bd233-1df9-49fb-a6a3-2af970d90b60.png)
+![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/174233728-015bd233-1df9-49fb-a6a3-2af970d90b60.png)  
+
 
 Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor
+
+### Step by Step Approach  
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)  
 * Proof of Work vs Proof of Stake
