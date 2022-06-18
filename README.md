@@ -3,7 +3,7 @@
 ![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/174233728-015bd233-1df9-49fb-a6a3-2af970d90b60.png)  
 
 
-Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor
+Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor  
 PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/files/8934042/Smart.Contract.Auditor.pdf)
 
 ### Step by Step Approach  
