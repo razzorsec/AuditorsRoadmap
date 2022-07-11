@@ -30,9 +30,9 @@ PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/f
   * [Foundry](https://github.com/foundry-rs/foundry)
   * [Tenderly](https://tenderly.co/)
 
-* [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/)
-  * ERC20, ERC721, ERC777, ERC1155, ERC4626
-  * BEP20
+* [ERC Standards]()
+  * [Token Standards](https://ethereum.org/en/developers/docs/standards/tokens/)ERC20, ERC721, ERC777, ERC1155, ERC4626, BEP20
+  * Other Standards: [ERC2981](https://eips.ethereum.org/EIPS/eip-2981)
 
 * [Openzeppelin Helper Libraries/Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 
@@ -113,4 +113,3 @@ PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/f
 * Knowledge Base
   * [Inline Assembly](https://docs.soliditylang.org/en/v0.8.13/assembly.html)
   * [Opcodes](https://www.ethervm.io/)
-  * 
