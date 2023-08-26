@@ -1,15 +1,17 @@
 # AuditorsRoadmap
 
-![Smart_Contract_Auditor_RoadMap](https://user-images.githubusercontent.com/54918791/174233728-015bd233-1df9-49fb-a6a3-2af970d90b60.png)  
+![Smart_Contract_Auditor_RoadMap](https://github.com/razzorsec/AuditorsRoadmap/assets/54918791/8ca631ff-dfab-4860-93cb-97718078a5ac)
 
 
-Available at: https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor  
-PDF: [Smart Contract Auditor.pdf](https://github.com/razzorsec/AuditorsRoadmap/files/8934042/Smart.Contract.Auditor.pdf)
+Available at: [Ethereum Smart Contract Auditor Roadmap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor/31d7095363a3896aa0cec56fe62ab51d8bff1a5eae7c2e9ff1be6a1fc8232ef8)  
+
+PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadmap/files/12446531/Smart_Contract_Auditor_PDF.pdf)
 
 ### Step by Step Approach  
 
 * [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)  
 * Proof of Work vs Proof of Stake
+* [The Eth2 Book](https://eth2book.info/)
 * Solidity Fundamentals
   * [Solidity Documentation](https://docs.soliditylang.org/en/latest/)
   * [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/index.html)
