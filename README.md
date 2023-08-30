@@ -52,6 +52,7 @@ PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadm
 
 * [CTFs](https://github.com/blockthreat/blocksec-ctfs)
   * [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   * [Capture The Ether](https://capturetheether.com/)
   * Read Walkthroughs
 
@@ -66,10 +67,6 @@ PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadm
   * Flash Loan => Price Oracle Manipulation
   * Front-Running => Sandwich attacks
   * Rug Pulls => Unlimited Token Allowance
-
-* [CTFs](https://github.com/blockthreat/blocksec-ctfs)  
-  * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-  * Read Walkthroughs
 
 * Postmortems
   * [Immunefi](https://medium.com/@immunefi)
