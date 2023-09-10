@@ -24,7 +24,7 @@ PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadm
 * [Juan: Advanced Gas Optimizations](https://dev.to/juanxavier/advanced-gas-optimizations-tips-for-solidity-1j2f)
 #### 4) Smart Contract Testing/Debugging
 * [Hardhat Docs](https://hardhat.org/guides/waffle-testing.html)
-* [Better Programming Hub](https://betterprogramming.pub/the-complete-hands-on-hardhat-tutorial-9e23728fc8a4)
+* [Rodrigo Herrera Itie](https://dev.to/rodrigoherrerai/the-complete-hands-on-hardhat-tutorial-3kbd)
 * [Code Eater - Hindi](https://www.youtube.com/watch?v=vuqhHOx6188&list=PLgPmWS2dQHW9mucRpDVe16j9Qn74ZXqcD&index=5)
 * [Foundry](https://github.com/foundry-rs/foundry)
 * [Tenderly](https://tenderly.co/)
