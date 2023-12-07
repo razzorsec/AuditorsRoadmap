@@ -95,6 +95,8 @@ PDF: [Smart_Contract_Auditor_PDF.pdf](https://github.com/razzorsec/AuditorsRoadm
 * [Scribble](https://github.com/ConsenSys/scribble)
 * [BlockSec ETH/BSC Tx Analysis](https://versatile.blocksecteam.com/tx)
 * [ethtx ETH Tx Analysis](https://ethtx.info/)
+* [ERCx Token Analysis](https://ercx.runtimeverification.com)
+
 #### 18) Continuous Learning and Research
 * [Ethereum Magicians](https://ethereum-magicians.org/)
 * [Ethereum Yellow Paper](https://github.com/ethereum/yellowpaper)
